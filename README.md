@@ -11,14 +11,16 @@ on july 2nd 2018 - version 0.0.0.0.0.666
 [tesseract] - pyocr supports other libs for this but the code I wrote assumes this one. Install it with all the optional languages for a massive help text!
 [tesseract]:https://github.com/tesseract-ocr/tesseract
 
+and we use PIL to read an image. duh
+
 ## Usage:
-Run OCR on a provided path to an image file with optional language
+Run OCR on a provided path to an image file, with optional language.
 
 Basic command line usage:
 ```
 python oh_see_args.py path_to_image [language_code]
 ```
 
-path_to_image:  Provide the full path to the image you wish to run OCR on
+`path_to_image:`  Provide the full path to the image you wish to run OCR on
 
-language_code:  Specify language (defaults to english if no code provided)
+`language_code:`  Specify language (defaults to english if no code provided)
