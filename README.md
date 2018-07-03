@@ -5,11 +5,9 @@ lazily crapped together by lance robotson: robotsun@gmail.com
 on july 2nd 2018 - version 0.0.0.0.0.666
 
 ## Dependencies:
-[pyocr] - python library provides wrappers for tesseract or other OCR software
-[pyocr]: https://gitlab.gnome.org/World/OpenPaperwork/pyocr
+[Pyocr](https://gitlab.gnome.org/World/OpenPaperwork/pyocr) - python library provides wrappers for tesseract or other OCR software
 
-[tesseract] - pyocr supports other libs for this but the code I wrote assumes this one. Install it with all the optional languages for a massive help text!
-[tesseract]:https://github.com/tesseract-ocr/tesseract
+[Tesseract](https://github.com/tesseract-ocr/tesseract) - pyocr supports other libs for this but the code I wrote assumes this one. Install it with all the optional languages for a massive help text!
 
 and we use PIL to read an image. duh
 
