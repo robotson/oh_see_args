@@ -1,6 +1,7 @@
 ################################################################################
 ################################################################################
-## "OH SEE ARE" - A HACKY COMMAND LINE PYTHON SCRIPT TO GET TEXT FROM IMAGES
+## "OH SEE ARGS" - A HACKY COMMAND LINE PYTHON SCRIPT TO GET TEXT FROM IMAGES
+## https://github.com/robotson/oh_see_args
 ## by lance robotson
 ## robotsun@gmail.com
 ## july 2nd 2018
